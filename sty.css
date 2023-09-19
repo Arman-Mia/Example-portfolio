@@ -6,6 +6,7 @@
 }
 body{
     color: #000305;
+    background:blue;
 }
 .header{
     position: fixed;
